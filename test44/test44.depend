@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1577464649 source:c:\users\kemo\desktop\test44\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<iterator>
+	<istream>
+	"FciVector.h"
+
+1577464655 c:\users\kemo\desktop\test44\fcivector.h
+	<iterator>
+	<istream>
+
